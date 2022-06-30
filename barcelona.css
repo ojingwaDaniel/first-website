@@ -1,0 +1,72 @@
+
+    body{
+        background-image: url(barca.jpg);
+        background-size: cover;
+        color: white;
+    }
+    .header{
+        text-align: center;
+
+    }
+    .ansu{
+        width: 300px;
+        height: 300px;
+        color: bisque;
+        background-image:url(ansu-fati.avif) ;
+        background-position: center center;
+        background-size: cover;
+        box-shadow: 2px 2px 20px  inset red;
+        border-radius:6px 15% 10px 15% ;
+        padding: 10px 10px 10px 10px;
+        
+    }
+    .pedri{
+        width: 300px;
+        height: 300px;
+        color: bisque;
+        background-image:url(pedri.jpeg) ;
+        background-position: center center;
+        background-size: cover;
+        box-shadow: 2px 2px 20px  inset blue;
+        border-radius:6px 15% 6px 15% ;
+        padding: 10px 10px 10px 10px;
+    }
+    .gavi{
+        width: 300px;
+        height: 300px;
+        color: bisque;
+        background-image:url(gavi.jpg) ;
+        background-position: center center;
+        background-size: cover;
+        box-shadow: 2px 2px 20px  inset red;
+        border-radius:6px 15% 6px 15% ;
+        padding: 10px 10px 10px 10px;
+    }
+    div{
+        display: inline-block;
+    }
+    .araujo{
+        width: 300px;
+        height: 300px;
+        color: bisque;
+        background-image:url(araujo.jpg) ;
+        background-position: center center;
+        background-size: cover;
+        box-shadow: 2px 2px 20px  inset blue;
+        border-radius:6px 15% 6px 15% ;
+        padding: 10px 10px 10px 10px;
+        
+    }
+    #box{
+        height: 200px;
+        width: 200px;
+        display: block;
+        background-color:rgba(245, 9, 9, 0.5) ;
+        padding: 25px;
+        margin: 100px auto;
+        color: blue;
+        text-align: center;
+        border: 2px solid blue;
+        
+        
+    }
